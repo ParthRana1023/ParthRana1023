@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ParthRana1023
+- 👀 I’m interested in AI, Gaming & Sports
+- 🌱 I’m currently learning Game Development & React
+- 💞️ I’m looking to collaborate on any projects I'll be able to contribute in
+- 📫 Contact Me-: E-mail: parth.rana1023@gmail.com
